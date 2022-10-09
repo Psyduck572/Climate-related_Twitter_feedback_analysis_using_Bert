@@ -1,7 +1,7 @@
 # Tweets_BERT-Recognition Degree Prediction
 Detecting number of likes in tweets using PyTorch and pre-trained BERT model to fit a model to have a binary classification.
 # Purpose
-We want to develop a model to predict the recognition degree of a random tweet that is about the climate change or environmental related  infomation. 
+We want to develop a model to predict the recognition degree of a random tweet that is about the climate change or environmental related  infomation (based on Likes that tweets received). 
 # Data
 We use tweepy, a free API to access Twitter, to collect tweets that are related to environment/climate change. The original data is provided by CDC.  
 # Model
